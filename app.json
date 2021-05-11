@@ -1,0 +1,12 @@
+{
+  "name": "sehranin-mob",
+  "displayName": "sehranin-mob",
+  "expo": {
+    "name": "sehranin-mob",
+    "slug": "sehranin-mob",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
